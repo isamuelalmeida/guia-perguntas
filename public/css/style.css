@@ -2,11 +2,17 @@ body {
 	background-color: #eceff1;
 }
 
-#formulario-pergunta {
-	margin-top: 5vh;
+#formulario-pergunta,
+#card-pergunta,
+#card-respostas {
+	margin-top: 3vh;
 }
 
 #formulario-pergunta label {
 	margin-top: 4px;
 	font-weight: 600;
+}
+
+nav {
+	margin-bottom: 4px;
 }
